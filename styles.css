@@ -17,7 +17,7 @@ div .t{
 }
 
 
-.container{
+.holder{
 	display: flex;
 	flex-wrap: wrap;
 	justify-content:center;
