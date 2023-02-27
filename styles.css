@@ -1,2 +1,25 @@
 
 /* Your CSS Code here. */
+div .f{
+	height:100px;
+	width:100px;
+	background-color:red
+}
+div .s{
+	height:100px;
+	width:100px;
+	background-color:green;
+}
+div .t{
+	height:100px;
+	width:100px;
+	background-color:yellow;
+}
+
+
+.container{
+	display: flex;
+	flex-flow:row wrap;
+	justify-content:center;
+	
+}
